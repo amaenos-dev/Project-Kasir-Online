@@ -19,5 +19,5 @@ int main(){
         std::cout << "Masuk ke Menu Tambahkan Barang" << std::endl;
     }else if(angka == 3){
         std::cout << "Masuk ke Menu Lihat Keranjang" << std::endl;
-    }
+    }    
 }
