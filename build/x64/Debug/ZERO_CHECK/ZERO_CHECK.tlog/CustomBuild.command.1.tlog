@@ -1,0 +1,10 @@
+^D:\_DISK\BELAJAR\C++\PROJECT_KASIR_ONLINE\BUILD\CMAKEFILES\2A28CB7ED41BA233BD7FF34899044968\GENERATE.STAMP.RULE
+setlocal
+D:\_DISK\INSTALAN\Cmake\bin\cmake.exe -SD:/_DISK/BELAJAR/C++/Project_Kasir_Online -BD:/_DISK/BELAJAR/C++/Project_Kasir_Online/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file D:/_DISK/BELAJAR/C++/Project_Kasir_Online/build/Project_Kasir_Online.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

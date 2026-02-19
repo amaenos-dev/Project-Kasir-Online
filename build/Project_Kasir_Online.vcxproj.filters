@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="D:\_DISK\BELAJAR\C++\Project_Kasir_Online\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="D:\_DISK\BELAJAR\C++\Project_Kasir_Online\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{EB5BBB34-2EAD-379B-9FBB-68685F8C9695}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

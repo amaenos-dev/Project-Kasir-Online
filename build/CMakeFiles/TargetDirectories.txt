@@ -1,0 +1,8 @@
+D:/_DISK/BELAJAR/C++/Project_Kasir_Online/build/CMakeFiles/Project_Kasir_Online.dir
+D:/_DISK/BELAJAR/C++/Project_Kasir_Online/build/CMakeFiles/Experimental.dir
+D:/_DISK/BELAJAR/C++/Project_Kasir_Online/build/CMakeFiles/Nightly.dir
+D:/_DISK/BELAJAR/C++/Project_Kasir_Online/build/CMakeFiles/Continuous.dir
+D:/_DISK/BELAJAR/C++/Project_Kasir_Online/build/CMakeFiles/NightlyMemoryCheck.dir
+D:/_DISK/BELAJAR/C++/Project_Kasir_Online/build/CMakeFiles/RUN_TESTS.dir
+D:/_DISK/BELAJAR/C++/Project_Kasir_Online/build/CMakeFiles/ALL_BUILD.dir
+D:/_DISK/BELAJAR/C++/Project_Kasir_Online/build/CMakeFiles/ZERO_CHECK.dir
