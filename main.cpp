@@ -1,6 +1,22 @@
 #include <iostream>
 
 int main(int, char**){
-    std::cout << "Hello, from Project_Kasir_Online!\n";
+    int angka;
+    
+    std::cout << "Hello, Selamat datang di Kasir Online!\n" << std::endl;
+
+    std::cout << "Menu" << std::endl;
+    std::cout << "1. Mode Kasir" << std::endl;
+    std::cout << "2. Database\n" << std::endl;
+    
+    std::cout << "Pilih Menu: ";
+    std::cin >> angka;
+
+    if(angka == 1){
+        std::cout << "Masuk ke Mode Kasir";
+    }else if (angka == 2) {
+        std::cout << "Masuk ke Database";
+    }
+
     return 0;
 }
